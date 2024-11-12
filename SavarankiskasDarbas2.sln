@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavarankiskasDarbas2", "SavarankiskasDarbas2\SavarankiskasDarbas2.csproj", "{E0BDF91B-CFB3-422F-8AF7-09033386B27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavarankiskasDarbas2.Core", "SavarankiskasDarbas2.Core\SavarankiskasDarbas2.Core.csproj", "{1A1FFDDE-687A-4FE2-8858-C0C782D284B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BDF91B-CFB3-422F-8AF7-09033386B27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BDF91B-CFB3-422F-8AF7-09033386B27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BDF91B-CFB3-422F-8AF7-09033386B27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BDF91B-CFB3-422F-8AF7-09033386B27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1FFDDE-687A-4FE2-8858-C0C782D284B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1FFDDE-687A-4FE2-8858-C0C782D284B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1FFDDE-687A-4FE2-8858-C0C782D284B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1FFDDE-687A-4FE2-8858-C0C782D284B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED5A167C-868C-41B1-871A-D740B20C52BA}
+	EndGlobalSection
+EndGlobal
